@@ -1,5 +1,11 @@
 #!/usr/bin/python
+"""
+Name: Youtube Downloader
+Date: 10/22/2014
+Author: Deekshith Marla
+Website: http://deekshith.me
 
+"""
 #python youtube_downloader.py 'url' type
 
 
