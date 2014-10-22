@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#python file.py 'url' type(mp4)
+#python youtube_downloader.py 'url' type
 
 
 import urllib
